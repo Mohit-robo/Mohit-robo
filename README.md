@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on **[Automatic Number Plate Detection](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🔭 I’m currently working on **[Automatic Number Plate Detection]**
+- 🔭 I’m currently working on **[Automatic Vehicle Plate Recognisation]**
 
 - 🌱 I’m currently learning **Data Science**
 
