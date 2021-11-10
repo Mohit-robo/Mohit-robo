@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Mohit-robo/github-readme-activity-graph"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mohit-robo&bg_color=0D1117&color=#ec5b85&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Mohit-robo/github-readme-activity-graph"><img alt="Mohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mohit-robo&bg_color=0D1117&color=#5becc3&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
