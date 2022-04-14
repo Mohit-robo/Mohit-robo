@@ -8,9 +8,9 @@
 
 <!-- - 🔭 I’m currently working on **[Automatic Number Plate Detection](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🔭 I’m currently working on **[Automatic Vehicle Plate Recognisation]**
+- 🔭 I’m currently working on **[Automatic Traffic Surveillance System]**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
 - 👯 I’m looking for a  **Data Science Internship**  with **Computer Vision** and **Deep Learning** my intrests. 
 
