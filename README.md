@@ -14,7 +14,7 @@
 
 - 👯 I’m looking for a  **Data Science Internship**  with **Computer Vision** and **Deep Learning** my intrests. 
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.youtube.com/channel/UCOvwzcPbVfh_UrUUgd7odww)** and **[Link](https://docs.google.com/document/d/1Q7Ks67IuW0yeiKtfoZDQETCh17LhILIORmb_-vqoyf8/edit)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.youtube.com/channel/UCOvwzcPbVfh_UrUUgd7odww)**
  
 - ✍️ **[My Medium Blog Posts](https://medium.com/@mohitgaikwad2804)**
 
