@@ -68,11 +68,9 @@
 
 ## Check my work:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/mohit-gaikwad-688479193//"><img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg"  width="40" height="35"/></a>
-<a href = "https://www.hackerrank.com/mohitgaikwad2804/"><img src="https://store-images.s-microsoft.com/image/apps.54814.8be4d38c-48bd-42d6-ac58-f3e5eed73672.97f20738-86a1-49d8-9b95-961dba5aac80.dcf21c85-94f3-4433-a7bf-84328fe63f2c.png" width="40" height="35"/></a>
-<a href = " https://www.youtube.com/channel/UCOvwzcPbVfh_UrUUgd7odww"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"  width="40" height="35"/></a>
-<a href = " https://medium.com/@mohit_gaikwad"><img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-970-80.jpg.webp"  width="40" height="35"/></a>
+<a href = "https://www.youtube.com/channel/UCOvwzcPbVfh_UrUUgd7odww"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"  width="40" height="35"/></a>
+<a href = "https://medium.com/@mohit_gaikwad"><img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-970-80.jpg.webp"  width="40" height="35"/></a>
 <!-- <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif" height="100px"/></a> -->
 
 </p>
