@@ -34,7 +34,7 @@
     <a target="_blank"> <img src="https://www.famouslogos.us/images/linux-logo.jpg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=#FFFFFF)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=#FFFFFF)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
@@ -46,8 +46,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Mohit-robo/github-readme-stats"><img alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohit-robo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Mohit-robo/github-readme-stats"><img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-robo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Mohit-robo/github-readme-stats"><img alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohit-robo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=#FFFFFF" /></a>
+  <a href="https://github.com/Mohit-robo/github-readme-stats"><img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-robo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=#FFFFFF" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
