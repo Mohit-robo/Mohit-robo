@@ -1,20 +1,20 @@
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif" height="100px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif" height="100px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohit </h1>
-<h3 align="center">Fascianted by the way Neurons work </h3>
+<h3 align="center">Fascianted by the way Neurons work </h3> -->
 
 
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Automatic Number Plate Detection](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🔭 I’m currently working on **[Automatic Traffic Surveillance System]**
+- 🔭 I’m currently working on **[3D Object Detection]**
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
-- 👯 I’m looking for a  **Data Science Internship**  with **Computer Vision** and **Deep Learning** my intrests. 
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.youtube.com/channel/UCOvwzcPbVfh_UrUUgd7odww)**
+<!-- - 👯 I’m looking for a  **Data Science Internship**  with **Computer Vision** and **Deep Learning** my intrests.  -->
+<!-- 
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.youtube.com/channel/UCOvwzcPbVfh_UrUUgd7odww)** -->
  
 - ✍️ **[My Medium Blog Posts](https://medium.com/@mohitgaikwad2804)**
 
