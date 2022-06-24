@@ -23,18 +23,14 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://keras.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.stackshare.io/service/5601/keras.png" alt="express" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="express" width="80" height="40"/> </a>
-    <a href="https://scikit-learn.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" alt="express" width="40" height="40"/> </a>
-    <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="express" width="40" height="40"/> </a>
-    <a target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmnbpog_j8p5X7e1xw-Bo0R0tK6O-oGXGCdMoEi2s1Ygt33wSsl-oc0iJ9PWaFTHLFfL0&usqp=CAU" alt="express" width="40" height="40"/> </a>
-    <a target="_blank"> <img src="https://www.famouslogos.us/images/linux-logo.jpg" alt="express" width="40" height="40"/> </a>
-</p>
-
-<br/>
+![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=OpenCV&logoColor=0000FF)
+![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat-square&logo=TensorFlow&logoColor=FFA500)
+![](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=Jupyter&logoColor=FF8C00)
+![](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=Keras&logoColor=FF0000)
+![](https://img.shields.io/badge/-Linux-FFFFFF?style=flat-square&logo=Linux&logoColor=D2691E)
 
 ## 📊 My Github Stats
 
@@ -47,13 +43,9 @@
 
 ---
 ## Check my work:
-<p align="left">
-<a href = "https://www.linkedin.com/in/mohit-gaikwad-688479193//"><img src="https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg"  width="40" height="35"/></a>
-<a href = "https://www.youtube.com/channel/UCOvwzcPbVfh_UrUUgd7odww"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"  width="40" height="35"/></a>
-<a href = "https://medium.com/@mohit_gaikwad"><img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-970-80.jpg.webp"  width="40" height="35"/></a>
-<!-- <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif" height="100px"/></a> -->
-
-</p>
+![](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=#FF0000)
+![](https://img.shields.io/badge/-Linkedin-000000?style=flat-square&logo=Linkedin&logoColor=FFD700)
+![](https://img.shields.io/badge/-Medium-FFFFFF?style=flat-square&logo=Medium&logoColor=000000)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Mohit-robo/github-profile-views-counter">
