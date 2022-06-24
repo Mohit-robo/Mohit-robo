@@ -35,10 +35,10 @@
 ## 📊 My Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-robo&hide_border=true&theme=monokai" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://activity-graph.herokuapp.com/graph?username=Mohit-robo&hide_border=true&theme=monokai" width="66%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-robo&hide_border=true&theme=vue-dark" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://activity-graph.herokuapp.com/graph?username=Mohit-robo&hide_border=true&theme=vue-dark" width="66%">
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-robo&hide_border=true&theme=monokai" alt="Streak Stats" width="45%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mohit-robo&hide_border=true&theme=monokai" alt="Streak Stats" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-robo&hide_border=true&theme=vue-dark" alt="Streak Stats" width="45%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mohit-robo&hide_border=true&theme=vue-dark" alt="Streak Stats" width="45%"/>
 </p>
 
 ---
