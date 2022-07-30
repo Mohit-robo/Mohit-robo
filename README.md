@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[3D Object Detection]**
+- 🔭 I’m currently working on **3D Object Detection**
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
