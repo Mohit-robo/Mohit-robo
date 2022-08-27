@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Seq 2 Seq Problems**
+- 🔭 I’m currently working on **implementing research papers**
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
