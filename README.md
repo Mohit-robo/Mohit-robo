@@ -44,8 +44,8 @@
 ## Check my work:
 ![](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=#FF0000)
 ![](https://img.shields.io/badge/-Linkedin-000000?style=flat-square&logo=Linkedin&logoColor=FFD700)
-![](https://img.shields.io/badge/-Medium-FFFFFF?style=flat-square&logo=Medium&logoColor=000000)
-
+![](https://img.shields.io/badge/-Medium-FFFFFF?style=flat-square&logo=Medium&logoColor=000000) 
+![](https://img.shields.io/badge/-StackOverflow-000000?style=flat-square&logo=Stackoverflow&logoColor=FF5733 )
 ## ❤ Views and Followers
 <a href="https://github.com/Mohit-robo/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Mohit-robo">
