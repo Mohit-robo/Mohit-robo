@@ -1,8 +1,8 @@
 <!--  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif" height="100px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohit </h1>
-<h3 align="center">Fascianted by the way Neurons work </h3>
-
+<div align="center">
+  <img src="https://github.com/Mohit-robo/Mohit-robo/blob/main/Untitled%20design.gif" alt="header"/>
+</div>
 
 ## 🙋‍♂️ About Me
 
@@ -34,8 +34,8 @@
 ## 📊 My Github Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-robo&hide_border=true&theme=vue-dark" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://activity-graph.herokuapp.com/graph?username=Mohit-robo&hide_border=true&theme=vue-dark" width="66%">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-robo&hide_border=true&theme=vue-dark" alt="Top Languages" width="24%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Mohit-robo&hide_border=true&theme=vue-dark" width="66%"> -->
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-robo&hide_border=true&theme=vue-dark" alt="Streak Stats" width="45%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mohit-robo&hide_border=true&theme=vue-dark" alt="Streak Stats" width="45%"/>
 </p>
