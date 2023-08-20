@@ -1,7 +1,7 @@
 <!--  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/i4NjAwytgIRDW/giphy.gif" height="100px"/></a> -->
 
 <div align="center">
-  <img src="https://github.com/Mohit-robo/Mohit-robo/blob/main/Computer%20Vision%20Engineer%20Student.mp4" alt="header"/>
+  <img src="https://github.com/Mohit-robo/Mohit-robo/blob/main/Computer%20Vision%20Engineer%20Student.gif" alt="header"/>
 </div>
 
 ## 🙋‍♂️ About Me
