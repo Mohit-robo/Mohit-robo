@@ -26,10 +26,11 @@
 ![](https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=OpenCV&logoColor=0000FF)
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-FFFFFF?style=flat-square&logo=TensorFlow&logoColor=FFA500)
-![](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=Jupyter&logoColor=FF8C00)
 ![](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=FFFFFF)
-![](https://img.shields.io/badge/-Keras-000000?style=flat-square&logo=Keras&logoColor=FF0000)
 ![](https://img.shields.io/badge/-Linux-FFFFFF?style=flat-square&logo=Linux&logoColor=D2691E)
+![](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=Docker&logoColor=0db7ed)
+![](https://img.shields.io/badge/-DVC-FFFFFF?style=flat-square&logo=DVC&logoColor=A020F0)
+![](https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=Amazon&logoColor=FF9900)
 
 ## 📊 My Github Stats
 
