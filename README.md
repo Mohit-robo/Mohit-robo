@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **implementing research papers**
+- 🔭 Currently working as a Computer Vision Engineer at Wobot.ai 
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
