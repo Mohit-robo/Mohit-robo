@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=Docker&logoColor=0db7ed)
 ![](https://img.shields.io/badge/-DVC-FFFFFF?style=flat-square&logo=DVC&logoColor=A020F0)
 ![](https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=Amazon&logoColor=FF9900)
-
+![](https://img.shields.io/badge/-MLFlow-000000?style=flat-square&logo=MLFlow&logoColor=33bbff)
 ## 📊 My Github Stats
 
 <p align="center">
