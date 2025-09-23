@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working as a Computer Vision Engineer at Wobot.ai 
+- 🔭 Currently working as a Computer Vision Engineer at Griffyn Robotech 
 
 - 🌱 I’m currently learning **Deep Learning and Computer Vision**
 
