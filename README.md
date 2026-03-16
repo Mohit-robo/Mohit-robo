@@ -18,7 +18,7 @@
 
 - 📫 Reach me @ **[Email](mohitgaikwa2804d@gmail.com)**
 
-- 🗒 **[Resume](https://drive.google.com/file/d/15FOx10lWo09vzA2Jv1paKKVwqM-DM77J/view?usp=drive_link)**
+<!-- - 🗒 **[Resume](https://drive.google.com/file/d/15FOx10lWo09vzA2Jv1paKKVwqM-DM77J/view?usp=drive_link)** -->
 
 ## 🚀 Languages and Tools:
 
