@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohit! 👋</h1>
 
-<h3 align="center">Computer Vision Engineer | Deep Learning | Edge AI</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 <p align="center">
   Building intelligent vision systems that bridge the gap between research and real-world applications.
@@ -11,9 +11,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 Currently working as a Computer Vision Engineer at Griffyn Robotech.
-- 🤖 Interested in Computer Vision, Deep Learning, Edge AI, and Robotics.
-- 🌱 Exploring advanced computer vision techniques and model optimization.
-- 🛠️ Experienced in building real-time vision pipelines using NVIDIA DeepStream and TensorRT.
+- 🤖 Interested in Machine Learning, GenAI, Edge AI, and Agentic AI.
+- 🛠️ Experienced in building real-time vision pipelines.
 - ✍️ Sharing technical insights on [Medium](https://medium.com/@mohitgaikwad2804).
 - 📫 Reach me at [Email](mailto:mohitgaikwa2804d@gmail.com).
 
